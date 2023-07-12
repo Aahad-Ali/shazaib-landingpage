@@ -1,0 +1,188 @@
+/* 
+body{
+    background: black;
+}
+.main-header{
+    width: 1400px;
+    display: grid;
+    place-items: center;
+    margin-top: 1rem;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.header-container{
+    background-image: url('./Web_asstes_Email/Purple\ Background.png');
+    height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6rem;
+  
+  
+}
+.main-header-left{
+    margin-left: 10rem;
+}
+
+.main-header-left h2{
+    margin-bottom: 1rem;
+    font-size: 3em;
+    color: #f7a654;
+    font-weight: bold;
+}
+
+.main-header-left p{
+    margin: 1rem 0 3.5rem;
+  font-size: 1.1rem;
+}
+.main-header-left h4{
+    margin-bottom: 1rem;
+    color: #f7a654;
+    font-weight: 500;
+} */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span {
+  color: #ffff !important;
+}
+.row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+}
+body {
+  background: black !important;
+}
+.main-header-logo {
+  padding-top: 50px;
+}
+
+.card {
+  background-color: transparent !important;
+}
+.container-banner-heading {
+  vertical-align: middle !important;
+  align-items: center !important;
+  /* padding-top: 50px; */
+}
+.banner-heading h2 {
+  font-size: 37px;
+  font-weight: bold;
+  font-family: "Montserrat";
+  color: #f7a654 !important;
+}
+.banner-heading h4 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Montserrat";
+  color: #f7a654 !important;
+}
+.banner-heading p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Montserrat";
+  padding-right: 180px;
+}
+.header-image {
+  text-align: center !important;
+}
+/*  */
+.btn-primary-first {
+  padding: 10px 150px !important;
+  margin-top: 50px !important;
+  font-size: 20px !important ;
+  border-radius: 10px !important;
+  background-color: #01aa80;
+  color: #fff;
+  font-weight: bold !important;
+  font-family: "Montserrat";
+}
+.container-after-button-text {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #fff;
+  
+
+}
+.container-after-text-heading{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  border-bottom: 1px solid #fff;
+
+}
+.container-after-text-heading h2{
+    font-size: 18px;
+    font-weight: bold !important;
+  font-family: "Montserrat";
+  color: #f7a654 !important;
+
+}
+.container-after-text-heading p{
+    font-size: 16px;
+    font-weight: 400 !important;
+  font-family: "Montserrat";
+padding-left: 290px;
+padding-right: 290px;
+
+}
+.container-help{
+    text-align: center;
+padding-top: 50px;
+}
+
+.testimonials-container{
+    text-align: center;
+}
+.testimonials-container .col{
+    text-align: center;
+}
+.consultation-button{
+    padding-bottom: 50px;
+  border-bottom: 1px solid #fff;
+
+}
+
+.btn-primary-second{
+  
+    padding: 10px 100px !important;
+    margin-top: 50px !important;
+    font-size: 20px !important ;
+    border-radius: 10px !important;
+    background-color: #8a3c90;
+    color: #fff;
+    font-weight: bold !important;
+    font-family: "Montserrat";
+}
+.container-why-us{
+    padding-top: 50px;
+}
+.container-why-us h2{
+font-size: 37px;
+font-weight: bold !important;
+font-family: "Montserrat";
+
+}
+.container-why-us p{
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.container-what-more{
+    vertical-align: middle !important;
+    align-items: flex-end !important;   
+    text-align: left !important;
+    justify-content: space-between;
+}
+.middle-banner-image{
+    text-align: end;
+}
